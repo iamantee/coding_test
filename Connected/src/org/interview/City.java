@@ -1,5 +1,4 @@
-package org.interview.Connected;
-
+package org.interview;
 
 public class City {
     private String name;
