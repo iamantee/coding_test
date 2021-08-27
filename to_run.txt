@@ -1,0 +1,1 @@
+Command: java -jar Connected.jar <filename> <cityname1> <cityname2>
